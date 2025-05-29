@@ -1,0 +1,74 @@
+header {
+    background-color: #fde0dd;
+    font-family: cursive;
+    margin: -20px;
+    padding: 30px;
+}
+
+body {
+    background-color: #fa9fb5;
+    font-family: Bradley Hand ITC;
+    background-image: url(fondito.jpg)
+}
+
+aside {
+    background-color: #f768a1;
+    position: fixed;
+    font-size: 12px;
+    font-family: monospace;
+    left: -15px;
+    right: 90px;
+    top: 170px;
+    width: 300px;
+    right: 100px;
+    padding: 20px;
+    margin: 10px;
+    box-sizing: border-box;
+
+}
+
+nav {
+    background-color: #fcc5c0;
+    justify-content: center;
+    text-align: center;
+    display: flex;
+    grid-gap: 300px;
+    margin: -20px;
+
+}
+
+article {
+    top: auto;
+    left: 300PX;
+    position: absolute;
+    background-color: #D8B384;
+    padding: 20px;
+    margin-bottom: 30px;
+    border-radius: 15px;
+    margin: 30px;
+    border-style: dotted;
+}
+
+section {
+    left: 350px;
+    width: 600px;
+    background-color:#A2C2E2;
+    margin-top: 250px;
+    position: absolute;
+}
+
+footer {
+    background-color: lightpink;
+    margin-top: 150PX;
+    margin: -12px;
+}
+
+.parrafo1 {
+    font-family: monospace;
+    font-size: 20px;
+    font-style: inherit;
+    background-color: gray;
+    box-shadow: 10px;
+    text-align: justify;
+    text-decoration: line-through;
+}
